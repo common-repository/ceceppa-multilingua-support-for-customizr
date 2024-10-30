@@ -1,0 +1,17 @@
+.media-items {
+  margin-bottom: 10px;
+}
+
+.media-items .image {
+  background: #f0f0f0;
+  padding: 0 5px;
+}
+
+.media-items .media-item span {
+  display: inline-block;
+  width: 120px;
+}
+
+th#media {
+width: 150px;
+}
